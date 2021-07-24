@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "48008490137",
+    "project_id": "player-performance-predi-c13ff",
+    "storage_bucket": "player-performance-predi-c13ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48008490137:android:e3aaacad9d6c56543f9c08",
+        "android_client_info": {
+          "package_name": "com.example.player_performance_predictor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48008490137-dhagcgja5monk1e7l5l3vlamhvva44r6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIz5611JrpNV5Bm83aJkMpijTSA7o2Im0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48008490137-dhagcgja5monk1e7l5l3vlamhvva44r6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

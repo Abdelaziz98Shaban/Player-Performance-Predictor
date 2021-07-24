@@ -1,0 +1,71 @@
+name: player_performance_predictor
+description: A new Flutter project.
+
+
+
+publish_to: 'none' 
+
+
+
+
+
+
+
+
+
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.0
+  tflite_flutter: ^0.9.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  http: null
+  provider: ^4.3.3
+  splashscreen: ^1.3.5
+  
+
+
+
+
+flutter:
+
+  
+  
+  
+  uses-material-design: true
+
+  assets:
+    - assets/pics/
+    - assets/pics/leagues/
+    - assets/pics/graphs/
+    - assets/
+    - assets/predicton.tflite
+  
+  fonts:
+    - family: Raleway
+      fonts:
+        - asset: assets/fonts/Raleway-Regular.ttf
+        - asset: assets/fonts/Raleway-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Raleway-Black.ttf
+          weight: 900
+    - family: RobotoCondensed
+      fonts:
+        - asset: assets/fonts/RobotoCondensed-Regular.ttf
+        - asset: assets/fonts/RobotoCondensed-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/RobotoCondensed-Light.ttf
+          weight: 300
+  
+  
